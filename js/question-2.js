@@ -1,6 +1,3 @@
-// Question 1 (btw, i noticed that the variable name was division, but the function is a remainder function)
-const division = (a, b) => a % b;
-
 // Question 2
 const apiUrl =
   "https://api.rawg.io/api/games?dates=2019-01-01,2019-12-31&ordering=-rating&key=e3883df96920494ba1c96394bfc34358";
